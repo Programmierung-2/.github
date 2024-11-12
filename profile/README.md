@@ -6,11 +6,11 @@ Dieses Modul "Programmierung 2" wird von Prof. Dr. Tatiana Ermakova geleitet und
 
 ### Seminaristischer Lehrvortrag
 - **Zeit:** Donnerstags, 13:00 - 14:30 (ungerade Woche)
-- **Ort:** WH Gebäude C 446
+- **Ort:** HTW WH Campus
 
 ### PC-Übungen
-- **Gruppe 1:** Donnerstags, 09:45 - 12:00, wöchentlich im Raum WH Gebäude C 625
-- **Gruppe 2:** Donnerstags, 15:45 - 18:00, wöchentlich im Raum WH Gebäude C 625
+- **Gruppe 1:** Donnerstags, 09:45 - 12:00, wöchentlich im WH Campus
+- **Gruppe 2:** Donnerstags, 15:45 - 18:00, wöchentlich im WH Campus
 
 ### Präsentations- und Begutachtungstermine (vorläufig)
 - **Übungsblätter 1-3:** Präsentation und Begutachtung
@@ -44,7 +44,7 @@ Die Verwendung generativer KI-Tools zur Unterstützung bei der Entwicklung von L
 
 ## Kursverantwortliche
 - **Kursleiterin:** Prof. Dr. Tatiana Ermakova
-- **Tutorin:** Julia da Silva Soares Vetter
+- **Tutorin:** Júlia Vetter
 
 ## Kontakt
 Für Fragen oder Unterstützung stehen die Kursleiterin und die Tutorin zur Verfügung.
